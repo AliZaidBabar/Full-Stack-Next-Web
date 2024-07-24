@@ -1,8 +1,4 @@
-Sure, here's a more specific template for your README file, tailored to a basic full-stack project using Next.js, Node.js, and SQL:
-
----
-
-# Project Name
+# NEXT JS FULL STACK SETUP
 
 A full-stack web application built using Next.js, Node.js, and SQL. This project demonstrates the integration of a modern frontend framework with a backend server and a relational database.
 
